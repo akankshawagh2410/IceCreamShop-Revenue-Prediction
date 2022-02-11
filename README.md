@@ -1,4 +1,4 @@
-<p><b>Project: Ice Cream Shop Revenue Prediction depending upon the Temperature.</b></p>
+# Ice Cream Shop Revenue Prediction depending upon the Temperature.</b></p>
 I used Decision Tree Regressor Model for the Prediction of data in this project. 
 </b>.
 <br>So the dataset of a Ice Cream Shop contains:
